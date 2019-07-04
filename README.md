@@ -1,2 +1,2 @@
 # shadowsocks-howto
-Shadowsocks How-to
+这是一系列关于shadowsocks的文章
